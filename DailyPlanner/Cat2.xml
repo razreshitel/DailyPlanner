@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DayilyPlanner>
+    <Plan>
+        <id>1</id>
+        <Name>Filippov_a_a</Name>
+        <Date>16.03.2020</Date>
+        <Time>8:00</Time>
+        <Place>School n15</Place>
+        <Text>Tomorrow you must not oversleep school</Text>
+    </Plan>
+    <Plan>
+        <id>2</id>
+        <Name>See a doctor</Name>
+        <Date>17.03.2020</Date>
+        <Time>11:30</Time>
+        <Place>Hospital</Place>
+        <Text>Do not forget about the doctor</Text>
+    </Plan>
+</DayilyPlanner>
